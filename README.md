@@ -7,6 +7,9 @@ The instructions for following the sequence are also provided in the scene (whic
 
 ![game snapshot](/thumbnail.PNG)
 
+A demo video of the game can be found at:
+https://youtu.be/pnak0zRchDc
+
 Game controls:
 
 Left mouse click for any selection
